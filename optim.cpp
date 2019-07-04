@@ -54,7 +54,7 @@ void  Calcul()
 	vector <int>v;//vector <int>my_numbers;
 
 	v.push_back(4);
-	v.push_back(1);
+	v.push_back(2);
 	v.push_back(64);
 	v.push_back(18);
 	v.push_back(25);
